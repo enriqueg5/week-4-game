@@ -1,0 +1,16 @@
+.page-header {
+	background-image: url(http://www.themesltd.com/headers2/pokemon_pokeball.png);
+	height: 230px;
+	width: 1425px;
+}
+
+#logo {
+	display: block;
+    margin-left: auto;
+    margin-right: auto
+}
+
+.title {
+	text-align: center;
+	color: #FFCB05;
+}
